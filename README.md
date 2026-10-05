@@ -105,4 +105,4 @@ Simulação do ciclo de vida de objetos realizando operações de `upload` e `de
 
 ## ✒️ Autoria
 
-Projeto desenvolvido por **Thais Cardoso de Farias** como parte do treinamento prático de arquitetura e governança em nuvem AWS.
+Projeto desenvolvido por **Thais Farias** como parte do treinamento prático de arquitetura e governança em nuvem AWS.
