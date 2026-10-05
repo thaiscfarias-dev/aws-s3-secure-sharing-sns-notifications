@@ -36,6 +36,7 @@ A arquitetura foi desenhada para simular o cenário de uma empresa que precisa c
                                            ┌─────────────────────────┐
                                            │    Admin Subscriber     │
                                            └─────────────────────────┘
+```
 
 ## 🚀 Tecnologias e Serviços Utilizados
 
